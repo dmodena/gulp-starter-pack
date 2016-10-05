@@ -1,0 +1,8 @@
+# Ignoring node modules that will be installed
+/node_modules/
+
+# Ignoring transpiled JavaScript files
+/src/es5/
+
+# Ignoring output files
+/dist/
