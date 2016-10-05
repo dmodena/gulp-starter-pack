@@ -11,11 +11,11 @@ All files are loaded from the **src** folder and, after all tasks are done, the 
 
 Setup
 -----
-Follow these steps in order to get this pack up and running:
-1. Download this repository;
-2. Open the terminal in the main folder of this repository;
-3. Install all dependencies: `$ npm install`;
-4. Run Gulp tasks: `$ gulp`;
+Follow these steps in order to get this pack up and running:  
+1. Download this repository;  
+2. Open the terminal in the main folder of this repository;  
+3. Install all dependencies: `$ npm install`;  
+4. Run Gulp tasks: `$ gulp`;  
 5. Modify your source files and see them being compiled into the **dist** folder!
 
 **Author:** Douglas Modena - 2016  
