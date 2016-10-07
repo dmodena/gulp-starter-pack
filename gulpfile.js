@@ -3,7 +3,6 @@ var pug        = require('gulp-pug')
 var sass       = require('gulp-sass');
 var babel      = require('gulp-babel');
 var uglify     = require('gulp-uglify');
-var rename     = require('gulp-rename');
 var streamify  = require('gulp-streamify');
 var browserify = require('browserify');
 var source     = require('vinyl-source-stream');
